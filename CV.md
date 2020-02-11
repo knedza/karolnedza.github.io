@@ -32,13 +32,14 @@ Organising and running workshops and preparing and delivering lectures for the u
 ## Publications (including preregistration)
 **Systematic review** 
 Karol Nedza. Evidence of imagery use in improving adherence to exercise or weight loss: a systematic review.(*in write up*) PROSPERO 2019 CRD42019125014 Available from: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42019125014
+
 **Randomised trials of imagery-based intervention for physiotherapy patients** (AsPredicted #29079) 
 
 
 ## Additional activities 
 **Co-organising the ReproducibiliTea meetings at Plymouth**
 Co-running the ReproducibiliTea group with another PhD student at Plymouth. Our role involves communication with UKRN, scheduling times and locations and suggesting topics of discussion within the open science field. 
-[Plymouth group website](www.reproducibilitea.org/journal-clubs/#Plymouth)
+[Plymouth group](www.reproducibilitea.org/journal-clubs/#Plymouth)
 
 			
 **Co-running Functional Imagery Training group at University of Plymouth**

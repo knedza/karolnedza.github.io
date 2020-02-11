@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to my page 
+Teaching and Research Associate at Plymouth University. Main interests orientate around health and clinical psychology, interventions, imagery in physical activity and open science ....
 
-You can use the [editor on GitHub](https://github.com/knedza/karolnedza.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
+Some information about what I do 
 
-### Markdown
+### CV
+You can find my professional CV here [link](upload the CV online)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ReproducibiliTea 
+I am co-organising ReproducibiliTea meetings with my colleague Lenard, website can be found [here](https://reproducibilitea.org/journal-clubs/#Plymouth)
 
-```markdown
-Syntax highlighted code block
+### Twitter 
+![](twitter-icon_24x24.png)
+[Karol Nedza](https://twitter.com/KarolNedza)
 
-# Header 1
-## Header 2
-### Header 3
+### LinkedIn
+![](linkedin-icon_24x24.png)
+[Karol Nedza](https://www.linkedin.com/in/karol-nedza-5136a0156/)
 
-- Bulleted
-- List
+***
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### For future editing 
+*Information on the website editing:*
+- You can use the [editor on GitHub](https://github.com/knedza/karolnedza.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Jekyll Themes: Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/knedza/karolnedza.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/knedza/karolnedza.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

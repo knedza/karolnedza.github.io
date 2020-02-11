@@ -6,7 +6,7 @@ Teaching and Research Associate at Plymouth University. Main interests orientate
 Some information about what I do 
 
 ### CV
-You can find my professional CV [here](CV_Karol Nedza.pdf)
+You can find my professional CV [here](CV.md)
 
 ### ReproducibiliTea 
 I am co-organising ReproducibiliTea meetings with my colleague Lenard, website can be found [here](https://reproducibilitea.org/journal-clubs/#Plymouth)

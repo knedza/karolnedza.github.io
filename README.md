@@ -6,18 +6,16 @@ Teaching and Research Associate at Plymouth University. Main interests orientate
 Some information about what I do 
 
 ### CV
-You can find my professional CV here [link](upload the CV online)
+You can find my professional CV [here](CV_Karol Nedza.pdf)
 
 ### ReproducibiliTea 
 I am co-organising ReproducibiliTea meetings with my colleague Lenard, website can be found [here](https://reproducibilitea.org/journal-clubs/#Plymouth)
 
 ### Twitter 
-![](twitter-icon_24x24.png)
-[Karol Nedza](https://twitter.com/KarolNedza)
+![](twitter-icon_24x24.png)(https://twitter.com/KarolNedza)
 
 ### LinkedIn
-![](linkedin-icon_24x24.png)
-[Karol Nedza](https://www.linkedin.com/in/karol-nedza-5136a0156/)
+![](linkedin-icon_24x24.png)(https://www.linkedin.com/in/karol-nedza-5136a0156/)
 
 ***
 
